@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Digital Twin for Digital Substation Communication Networks
+- 🔭 I'm currently working on Digital Twin for Digital Substation Communication Networks
+- :satellite:	I'm part of [@midiacom](https://github.com/midiacom) and [@FriendsLabUFF](https://github.com/FriendsLabUFF)
 - 🌱 My interests are:
   - Python (mainly communications, sockets and protocols) and Linux;
   - Smart Grid (IEC 61850), MMS, GOOSE and SV;
   - Digital Twin, Digital Substations and SDN (Software-Defined Network);
   - I also research 5G sometimes.
-- 🤔 I’m looking for help with Python speedup (probably with Rust)
+- 🤔 I'm looking for help with Python speedup (probably with Rust)
 - 💬 I can help you with: Python and IEC 61850
 - 📫 How to reach me: github@zope.me
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him :male_sign:
 
 ### IEC 61850 for Python
 
