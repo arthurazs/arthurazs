@@ -12,6 +12,8 @@
 - 📫 How to reach me: github@zope.me
 - 😄 Pronouns: he/him :male_sign:
 
+Here follows some of my opensource work:
+
 ### IEC 61850 for Python
 
 - [ASN.1 Identifier Decoder](https://github.com/arthurazs/asn)
